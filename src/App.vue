@@ -8,7 +8,9 @@ import Featured from './components/Featured.vue'
 <template>
   <Header />
   <Banner />
-  <Featured />
+  <div class="content-area">
+    <Featured />
+  </div>
 </template>
 
 <style scoped>
