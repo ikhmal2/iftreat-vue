@@ -21,9 +21,6 @@
     position: relative;
     width: 100%;
     z-index: 10;
-    max-width: 960px;
-    width: 95%;
-    margin: auto;
 }
 
 .filter-deals {
