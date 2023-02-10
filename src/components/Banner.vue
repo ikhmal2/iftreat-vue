@@ -10,23 +10,12 @@
                         offers<br>and deals right here, right now. Exclusively for AmBank Cardholders.
                     </h1>
                 </div>
-                <div class="banner-img">
-                    <img src="" alt="" srcset="">
-                </div>
             </div>
         </div>
-        <Newsletter />
     </div>
 </template>
 
 <script>
-import Newsletter from './Newsletter.vue'
-
-export default {
-    components: {
-        Newsletter
-    }
-}
 </script>
 
 <style scoped>
@@ -43,10 +32,6 @@ export default {
     background-repeat: no-repeat;
     background-size: 131px 109px, 431px 107px, 277px 138px;
     border: 1px solid transparent;
-}
-
-.banner-content.banner-img {
-    background: url(https://ambankspot.com/wp-content/themes/ambankspot/ui-img/banner.png?v=1234) no-repeat right top 12px;
 }
 
 .banner-content {
