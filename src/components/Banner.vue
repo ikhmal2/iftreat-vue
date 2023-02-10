@@ -44,7 +44,7 @@
 
 .banner-content .banner-copy {
     padding-left: 30px;
-    padding-top: 50px;
+    padding-top: 100px;
 }
 
 .banner-content .banner-copy .line-first {
